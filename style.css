@@ -240,3 +240,42 @@ a{
     gap: 390px;
     margin-top: 30px;
 }
+.conteiner7{
+    width: 100%;
+    height: auto;
+}
+.asist7{
+    padding: 50px 150px;
+}
+.text9{
+    text-transform: uppercase;
+    font-size: 90px;
+    font-weight: 700;
+    letter-spacing: 3px;
+}
+.knop3{
+    width: 540px;
+    height: 120px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px grey;
+    margin-top: 30px;
+}
+.text10{
+    display: flex;
+    gap: 10px;
+    line-height: 25px;
+}
+.text11{
+    color: orangered;
+    font-family: cursive;
+    margin-left: 65px;
+}
+.text12{
+    margin-top: 10px;
+    font-weight: 600;
+    margin-left: 65px;
+}
+.flex5{
+    display: flex;
+    justify-content: space-around;
+}
