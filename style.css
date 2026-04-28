@@ -101,11 +101,11 @@ a{
 }
 .main{
     width: 100%;
-    height: 2000px;
+    height: 3000px;
 }
 .conteiner4{
     width: 100%;
-    height: 100px;
+    height: auto;
 }
 .asist4{
     padding: 80px 50px;
@@ -118,11 +118,10 @@ a{
     background-color: #212121;
     padding: 80px 50px;
     display: flex;
-    justify-content: center;
-    gap: 70px;
+    justify-content: space-around;
 }
 .img3{
-    height: 550px;
+    height: 620px;
     width: 1000px;
     position: absolute;
     z-index: -1;
@@ -148,4 +147,96 @@ a{
 .img5{
      margin-top: 30px;
     margin-right: 10px;
+}
+.conteiner5{
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+.asist5{
+    padding: 50px 150px;
+}
+.img6{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+.img7{
+    position: absolute;
+    top: 80px;
+    left: 270px;
+}
+.img8{
+    position: absolute;
+    top: 110px;
+    left: 490px;
+}
+.kalima2{
+    color: orangered;
+    font-weight: 600;
+    margin-right: 50px;
+}
+.flex2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.img9{
+    margin-top: 180px;
+}
+.text6{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.btn3{
+    padding: 7px 15px;
+    font-size: 20px;
+    margin-top: 30px;
+    color: orangered;
+    background-color: inherit;
+    border: 1px solid orangered;
+}
+.conteiner6{
+    width: 100%;
+    height: auto;
+    margin-top: 300px;
+}
+.asist6{
+    padding: 80px 50px;
+}
+.knop2{
+     margin-left: 80px;
+    border-radius: 20px;
+    width: 1600px;
+    height: 500px;
+    background-color: #212121;
+    padding: 80px 50px;
+}
+.img10{
+     height: 820px;
+    width: 1000px;
+    position: absolute;
+    z-index: -1;
+}
+.img11{
+     margin-top: 60px;
+    margin-right: 10px;
+}
+.flex3{
+     display: flex;
+    justify-content: space-around;
+}
+.text7{
+    color: white;
+    font-size: 20px;
+}
+.text8{
+    color: white;
+    font-size: 20px;
+}
+.flex4{
+    display: flex;
+    justify-content: center;
+    gap: 390px;
+    margin-top: 30px;
 }
