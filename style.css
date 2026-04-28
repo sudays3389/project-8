@@ -1,16 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 *{
     margin: 0;
+    font-family: "Roboto Condensed", sans-serif;
 }
 .header{
     width: 100%;
     height: auto;
 }
+.conteiner1{
+    padding: 20px 0px;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid rgb(211, 211, 211);
+}
 .asist1{
-    padding: 20px 70px;
-    display: flex;
+     padding: 0px 70px;
+     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid rgb(211, 211, 211);
 }
 ul{
     display: flex;
@@ -34,4 +41,61 @@ a{
     border: none;
     font-size: 15px;
     font-weight: 600;
+}
+.img1{
+    position: absolute;
+    z-index: -1;
+    margin-top: -50px;
+       transition-property: transform;
+    transition-duration: 3s;
+    transition-timing-function: ease-out;
+    transition-delay: 1s;
+    height: 648px;
+    transform: translateX(949px);
+}
+.text1{
+    padding-top: 70px;
+    font-size: 90px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.kalima1{
+    color: orangered;
+}
+.conteiner2{
+    width: 100%;
+    height: 647px;
+    border-bottom: 1px solid rgb(211, 211, 211);
+}
+.asist2{
+    padding: 50px 150px;
+}
+.text2{
+    font-weight: 300;
+    font-size: 25px;
+    margin-top: 20px;
+}
+.btn2{
+    padding: 10px 15px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    font-size: 17px;
+    margin-top: 70px;
+    text-transform: uppercase;
+}
+.btn2:hover{
+    background-color: rgb(255, 96, 38);
+}
+.btn2:active{
+    cursor: pointer;
+    transform: translateY(-20px);
+}
+.conteiner3{
+    height: 180px;
+    width: 100%;
+    border-bottom: 1px solid rgb(211, 211, 211);
+}
+.img2{
+    width: 100%;
 }
