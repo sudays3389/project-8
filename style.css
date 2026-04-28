@@ -279,3 +279,62 @@ a{
     display: flex;
     justify-content: space-around;
 }
+.conteiner8{
+    width: 100%;
+    height: auto;
+    margin-top: 300px;
+}
+.asist8{
+    padding: 80px 50px;
+}
+.knop4{
+      margin-left: 80px;
+    border-radius: 20px;
+    width: 1600px;
+    height: 500px;
+    background-color: #212121;
+    padding: 80px 50px;
+}
+.text13{
+    color: white;
+    font-size: 20px;
+}
+.text14{
+    color: white;
+    font-size: 20px;
+    margin-top: 30px;
+}
+.text15{
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-top: 40px;
+    font-weight: 650;
+}
+.flex6{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+input{
+    margin-top: 30px;
+    width: 500px;
+    color: rgb(240, 240, 240);
+    padding: 8px 12px;
+}
+form{
+    display: flex;
+    align-items: center;
+}
+.btn4{
+    margin-top: 30px;
+    padding: 6px 8px;
+    color: white;
+    background-color: orangered;
+    border: none;
+    font-size: 20px;
+}
+.text16{
+    color: grey;
+    margin-top: 10px;
+}
