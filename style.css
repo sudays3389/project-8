@@ -479,10 +479,14 @@ form{
         padding: 0px;
     }
     .text3{
+        width: 90%;
         margin: 0px;
-        font-size: 50px;
+        font-size: 30px;
     }
     .knop1{
+        transition: none;
+        transform: none;
+        margin-right: 300px;
         margin: 10px;
         width: 90%;
         padding: 10px;
@@ -499,15 +503,21 @@ form{
         display: none;
     }
     .img6{
+         transition: none;
+        transform: none;
         width: 190px;
         height: 290px;
     }
     .img7{
+         transition: none;
+        transform: none;
        width: 190px;
         height: 290px;
         left: 120px;
     }
     .img8{
+         transition: none;
+        transform: none;
      width: 190px;
         height: 290px;
         left: 190px;
@@ -525,9 +535,6 @@ form{
     .im{
         margin-top: 300px;
     }
-
-
-
     .conteiner6{
         width: 100%;
         height: auto;;
@@ -540,6 +547,8 @@ form{
         flex-direction: column;
 }
 .knop2{
+     transition: none;
+        transform: none;
     padding: 0;
     width: 80%;
     height: auto;
@@ -582,6 +591,8 @@ form{
         font-size: 50px;
     }
     .knop3{
+         transition: none;
+        transform: none;
         width: 90%;
         height: auto;
         margin-left: 10px;
@@ -604,11 +615,12 @@ form{
         flex-direction: column;
     }
     .knop4{
+         transition: none;
+        transform: none; 
         width: 90%;
         height: auto;
         margin: 0px;
         padding:10px;
-        margin-top: -280px;
         margin-left: 10px;
     }
     .text3{
@@ -644,6 +656,7 @@ form{
         margin-left: 100px;
     }
     .conteiner9{
+        margin-bottom: -400px;
         width: 100%;
         height: auto;
     }
